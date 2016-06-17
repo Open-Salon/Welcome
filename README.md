@@ -12,7 +12,7 @@ To read more about Salons, take a gander at this [site](http://www.bdavetian.com
 
 ####You can share your open source project here to spark collaboration with another creator.
 
-- Submit a pull request with your name and link to your project [here].
+- Submit a pull request with your name and link to your project [here](https://github.com/Open-Salon/Open-Salon/blob/master/README.md).
 - Converse with others in this organization to form connections.
 - Share resources to help each other support their own projects.
 - Do you have a suggestion on how to grow this community?  Let us know!
